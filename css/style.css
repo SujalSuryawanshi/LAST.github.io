@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: rgb(221, 197, 197);
+}
+header{
+    width: 100vw;
+    height: 8vw;
+    background-image: url('clouds.jpg');
+    background-size: 100vw 8vw;
+    background-repeat: no-repeat;
+}
+ul{
+    display: flex;
+    font-size: 30px;
+}
+li a{
+    text-decoration: none;
+    margin-left: 12vw;
+    margin-bottom: 5vh;
+    color: white;
+    font-family: 'Water Brush', cursive;
+}
+li{
+    margin-top: 5vh;
+    list-style: none;
+}
+.MaIn1A{
+    font-family: 'Water Brush', cursive;
+    font-size: 40px;
+    margin: 4vh 25vw 4vh 25vw;  
+}
+.MaIn2A{
+    font-family: 'Water Brush', cursive;
+    margin-top: 2vh;
+    margin-bottom: 3vh;
+    margin-left: 40vw;
+}
+.MaIn3A{
+    font-family: 'Water Brush', cursive;    
+}
+.MaIn4A{
+    font-family: 'Water Brush', cursive;    
+    margin-top: 2vh;
+    margin-bottom: 3vh;
+    margin-left: 40vw;
+}

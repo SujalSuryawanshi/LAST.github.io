@@ -1,0 +1,70 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color:  rgb(35 255 21);
+    background-size: 100vw;
+    width: 100vw;
+    height: 100vh;
+}
+header{
+    width: 100vw;
+    height: 8vw;
+    background-image: url('bench.jpg');
+    background-size: 100vw 8vw;
+    background-repeat: no-repeat;
+}
+ul{
+    display: flex;
+    font-size: 30px;
+}
+li a{
+    text-decoration: none;
+    margin-left: 12vw;
+    margin-bottom: 5vh;
+    color: white;
+    font-family: 'Water Brush', cursive;
+}
+li{
+    margin-top: 5vh;
+    list-style: none;
+}
+h1{
+    font-family: 'Water Brush', cursive;
+    font-size: 5vh;  
+    display: inline-block;
+    padding: 3vh;
+}
+.Chapter1{
+    font-family: 'Water Brush', cursive;
+    margin: 3vh;  
+    border: 3px solid black;
+    border-radius: 30px;  
+}
+#more {
+    display: none;
+}
+.Title{
+    margin-left: 3vw;
+}
+#myBtn{
+    margin: 1vh 30% 2vh 70%;
+    width: 9vw;
+    height: 5vh;
+    border-radius: 20px;
+    font-weight: 800;
+    color: azure;
+    background-color: rgb(59, 216, 19); 
+}
+.ChApTeR1{
+    width: 70vw;
+    color: black;
+    font-family: 'Water Brush', cursive;
+    background-color: white;
+    border-radius: 40px;
+    margin: 4vh 3vw 0vh 15vw;
+}
+p{
+    padding: 1vw;
+}
